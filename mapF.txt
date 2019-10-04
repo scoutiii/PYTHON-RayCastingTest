@@ -1,0 +1,7 @@
+blue blue blue blue blue blue blue
+green _ _ _ _ _ red
+green _ purple _ _ _ red
+green _ _ _ _ _ red
+green _ _ _ _ _ red
+green _ _ _ _ _ red
+orange orange orange orange orange orange orange
